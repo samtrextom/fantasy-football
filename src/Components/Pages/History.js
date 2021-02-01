@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Dash() {
+export default function History() {
     return (
         <div>
-            <h2>Dashboard</h2>
+            <h2>History</h2>
         </div>
     )
 }
